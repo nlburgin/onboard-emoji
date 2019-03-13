@@ -11,3 +11,5 @@ To display emoji you need a font which contain emoji symbols. If you don't have 
     sudo apt-get install fonts-noto-color-emoji
    
 Now copy all `layout` folder content to `~/.local/share/onboard/layouts` folder.
+
+You might then want to set a keyboard shortcut to launch Onboard itself, but that's outside the scope of this document.
