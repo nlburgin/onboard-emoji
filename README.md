@@ -6,14 +6,10 @@ Tested on **Ubuntu 18.04 x64** but should work for any OS with **OnBoard** onscr
 
 ## How to use
 
-To display emoji you need to install font, which contain emoji symbols. Run command:
+To display emoji you need a font which contain emoji symbols. If you don't have one already, run command:
 
-    sudo apt-get install ttf-ancient-fonts
-
-will install «symbola» font, which contain most of Unicode 8.0 emoji.
-
-Also you can install other emoji fonts like [Noto Emoji](https://github.com/googlei18n/noto-emoji) or [EmojiSymbols](http://emojisymbols.com/beforeuse.php).
-
+    sudo apt-get install fonts-noto-color-emoji
+   
 Now copy all `layout` folder content to `~/.local/share/onboard/layouts` folder.
 
 Then Go to `System Settings -> Accessibility` and in `Input` tab enable onscreen keyboard.
