@@ -18,6 +18,11 @@
   <key_template button="true" id="layer10" label="⌚️" tooltip="Symbols"/>
   <key_template button="true" id="layer11" label="📌" tooltip="Symbols 2"/>
   <key_template button="true" id="layer12" label="⏩" tooltip="Symbols 3"/>
+  <key_template button="true" id="layer13" label="MORE" tooltip="Places 2"/>
+  <key_template button="true" id="layer14" label="MORE" tooltip="Places 2"/>
+  <key_template button="true" id="layer15" label="MORE" tooltip="Places 2"/>
+  <key_template button="true" id="layer16" label="MORE" tooltip="Places 2"/>
+  <key_template button="true" id="layer17" label="MORE" tooltip="Places 2"/>
   <box border="1" orientation="vertical" spacing="2.0">
     
     
@@ -1003,43 +1008,15 @@
         <key char="🚟" group="alphanumeric" id="d9" label="🚟"/>
         <key char="🛂" group="alphanumeric" id="d10" label="🛂"/>
         <key char="🛃" group="alphanumeric" id="d11" label="🛃"/>
-        <key char="🛄" group="alphanumeric" id="e0" label="🛄"/>
-        <key char="🛅" group="alphanumeric" id="e1" label="🛅"/>
-        <key char="💴" group="alphanumeric" id="e2" label="💴"/>
-        <key char="💶" group="alphanumeric" id="e3" label="💶"/>
-        <key char="💷" group="alphanumeric" id="e4" label="💷"/>
-        <key char="💵" group="alphanumeric" id="e5" label="💵"/>
-        <key char="🗽" group="alphanumeric" id="e6" label="🗽"/>
-        <key char="🗿" group="alphanumeric" id="e7" label="🗿"/>
-        <key char="🌁" group="alphanumeric" id="e8" label="🌁"/>
-        <key char="🗼" group="alphanumeric" id="e9" label="🗼"/>
-        <key char="⛲️" group="alphanumeric" id="e10" label="⛲️"/>
-        <key char="🏰" group="alphanumeric" id="e11" label="🏰"/>
-        <key char="🏯" group="alphanumeric" id="f0" label="🏯"/>
-        <key char="🌇" group="alphanumeric" id="f1" label="🌇"/>
-        <key char="🌆" group="alphanumeric" id="f2" label="🌆"/>
-        <key char="🌃" group="alphanumeric" id="f3" label="🌃"/>
-        <key char="🌉" group="alphanumeric" id="f4" label="🌉"/>
-        <key char="🏠" group="alphanumeric" id="f5" label="🏠"/>
-        <key char="🏡" group="alphanumeric" id="f6" label="🏡"/>
-        <key char="🏢" group="alphanumeric" id="f7" label="🏢"/>
-        <key char="🏬" group="alphanumeric" id="f8" label="🏬"/>
-        <key char="🏭" group="alphanumeric" id="f9" label="🏭"/>
-        <key char="🏣" group="alphanumeric" id="f10" label="🏣"/>
-        <key char="🏤" group="alphanumeric" id="f11" label="🏤"/>
-        <key char="🏥" group="alphanumeric" id="g0" label="🏥"/>
-        <key char="🏦" group="alphanumeric" id="g1" label="🏦"/>
-        <key char="🏨" group="alphanumeric" id="g2" label="🏨"/>
-        <key char="🏩" group="alphanumeric" id="g3" label="🏩"/>
-        <key char="💒" group="alphanumeric" id="g4" label="💒"/>
-        <key char="⛪️" group="alphanumeric" id="g5" label="⛪️"/>
-        <key char="🏪" group="alphanumeric" id="g6" label="🏪"/>
-        <key char="🏫" group="alphanumeric" id="g7" label="🏫"/>
+
+
+        
         <key group="click" id="move" tooltip="Move keyboard"/>
         
       
         <key group="click" id="hide" tooltip="Hide keyboard"/>
         
+        <key group="click" id="layer13.like_rtrn" label="MORE" tooltip="More emojis"/>
       
         <key group="click" id="quit" tooltip="Quit Keyboard"/>
         
@@ -1287,44 +1264,9 @@
         <key char="📰" group="alphanumeric" id="f9" label="📰"/>
         <key char="🔑" group="alphanumeric" id="f10" label="🔑"/>
         <key char="✉️" group="alphanumeric" id="f11" label="✉️"/>
-        <key char="📩" group="alphanumeric" id="g0" label="📩"/>
-        <key char="📨" group="alphanumeric" id="g1" label="📨"/>
-        <key char="📧" group="alphanumeric" id="g2" label="📧"/>
-        <key char="📥" group="alphanumeric" id="g3" label="📥"/>
-        <key char="📤" group="alphanumeric" id="g4" label="📤"/>
-        <key char="📦" group="alphanumeric" id="g5" label="📦"/>
-        <key char="📯" group="alphanumeric" id="g6" label="📯"/>
-        <key char="📮" group="alphanumeric" id="g7" label="📮"/>
-        <key char="📪" group="alphanumeric" id="g8" label="📪"/>
-        <key char="📫" group="alphanumeric" id="g9" label="📫"/>
-        <key char="📬" group="alphanumeric" id="g10" label="📬"/>
-        <key char="📭" group="alphanumeric" id="g11" label="📭"/>
-        <key char="📄" group="alphanumeric" id="h0" label="📄"/>
-        <key char="📃" group="alphanumeric" id="h1" label="📃"/>
-        <key char="📑" group="alphanumeric" id="h2" label="📑"/>
-        <key char="📈" group="alphanumeric" id="h3" label="📈"/>
-        <key char="📉" group="alphanumeric" id="h4" label="📉"/>
-        <key char="📊" group="alphanumeric" id="h5" label="📊"/>
-        <key char="📅" group="alphanumeric" id="h6" label="📅"/>
-        <key char="📆" group="alphanumeric" id="h7" label="📆"/>
-        <key char="🔅" group="alphanumeric" id="h8" label="🔅"/>
-        <key char="🔆" group="alphanumeric" id="h9" label="🔆"/>
-        <key char="📜" group="alphanumeric" id="h10" label="📜"/>
-        <key char="📋" group="alphanumeric" id="h11" label="📋"/>
-        <key char="📖" group="alphanumeric" id="i0" label="📖"/>
-        <key char="📓" group="alphanumeric" id="i1" label="📓"/>
-        <key char="📔" group="alphanumeric" id="i2" label="📔"/>
-        <key char="📒" group="alphanumeric" id="i3" label="📒"/>
-        <key char="📕" group="alphanumeric" id="i4" label="📕"/>
-        <key char="📗" group="alphanumeric" id="i5" label="📗"/>
-        <key char="📘" group="alphanumeric" id="i6" label="📘"/>
-        <key char="📙" group="alphanumeric" id="i7" label="📙"/>
-        <key char="📚" group="alphanumeric" id="i8" label="📚"/>
-        <key char="📇" group="alphanumeric" id="i9" label="📇"/>
-        <key char="🔗" group="alphanumeric" id="i10" label="🔗"/>
-        <key char="📎" group="alphanumeric" id="i11" label="📎"/>
         <key group="click" id="move" tooltip="Move keyboard"/>
         
+        <key group="click" id="layer14.like_rtrn" label="MORE" tooltip="More emojis"/>
       
         <key group="click" id="hide" tooltip="Hide keyboard"/>
         
@@ -1452,42 +1394,11 @@
         <key char="🅾" group="alphanumeric" id="f9" label="🅾"/>
         <key char="🆘" group="alphanumeric" id="f10" label="🆘"/>
         <key char="🆔" group="alphanumeric" id="f11" label="🆔"/>
-        <key char="🅿" group="alphanumeric" id="g0" label="🅿"/>
-        <key char="🚾" group="alphanumeric" id="g1" label="🚾"/>
-        <key char="🆒" group="alphanumeric" id="g2" label="🆒"/>
-        <key char="🆓" group="alphanumeric" id="g3" label="🆓"/>
-        <key char="🆕" group="alphanumeric" id="g4" label="🆕"/>
-        <key char="🆖" group="alphanumeric" id="g5" label="🆖"/>
-        <key char="🆗" group="alphanumeric" id="g6" label="🆗"/>
-        <key char="🆙" group="alphanumeric" id="g7" label="🆙"/>
-        <key char="🏧" group="alphanumeric" id="g8" label="🏧"/>
-        <key char="🌀" group="alphanumeric" id="g9" label="🌀"/>
-        <key char="Ⓜ️" group="alphanumeric" id="g10" label="Ⓜ️"/>
-        <key char="⛎" group="alphanumeric" id="g11" label="⛎"/>
-        <key char="♈️" group="alphanumeric" id="h0" label="♈️"/>
-        <key char="♉️" group="alphanumeric" id="h1" label="♉️"/>
-        <key char="♊️" group="alphanumeric" id="h2" label="♊️"/>
-        <key char="♋️" group="alphanumeric" id="h3" label="♋️"/>
-        <key char="♌️" group="alphanumeric" id="h4" label="♌️"/>
-        <key char="♍️" group="alphanumeric" id="h5" label="♍️"/>
-        <key char="♎️" group="alphanumeric" id="h6" label="♎️"/>
-        <key char="♏️" group="alphanumeric" id="h7" label="♏️"/>
-        <key char="♐️" group="alphanumeric" id="h8" label="♐️"/>
-        <key char="♑️" group="alphanumeric" id="h9" label="♑️"/>
-        <key char="♒️" group="alphanumeric" id="h10" label="♒️"/>
-        <key char="♓️" group="alphanumeric" id="h11" label="♓️"/>
-        <key char="🚻" group="alphanumeric" id="i0" label="🚻"/>
-        <key char="🚹" group="alphanumeric" id="i1" label="🚹"/>
-        <key char="🚺" group="alphanumeric" id="i2" label="🚺"/>
-        <key char="🚼" group="alphanumeric" id="i3" label="🚼"/>
-        <key char="♿️" group="alphanumeric" id="i4" label="♿️"/>
-        <key char="🚰" group="alphanumeric" id="i5" label="🚰"/>
-        <key char="🚭" group="alphanumeric" id="i6" label="🚭"/>
-        <key char="🚮" group="alphanumeric" id="i7" label="🚮"/>
-        <key char="▶️" group="alphanumeric" id="i8" label="▶️"/>
-        <key char="◀️" group="alphanumeric" id="i9" label="◀️"/>
-        <key char="🔼" group="alphanumeric" id="i10" label="🔼"/>
-        <key char="🔽" group="alphanumeric" id="i11" label="🔽"/>
+        
+        
+        <key group="click" id="layer15.like_rtrn" label="MORE" tooltip="More emojis"/>
+        
+        
         <key group="click" id="move" tooltip="Move keyboard"/>
         
       
@@ -1614,42 +1525,196 @@
         <key char="🔚" group="alphanumeric" id="f6" label="🔚"/>
         <key char="🔙" group="alphanumeric" id="f7" label="🔙"/>
         <key char="🔛" group="alphanumeric" id="f8" label="🔛"/>
-        <key char="🔝" group="alphanumeric" id="f9" label="🔝"/>
-        <key char="🔜" group="alphanumeric" id="f10" label="🔜"/>
-        <key char="🔯" group="alphanumeric" id="f11" label="🔯"/>
-        <key char="🔰" group="alphanumeric" id="g0" label="🔰"/>
-        <key char="🔱" group="alphanumeric" id="g1" label="🔱"/>
-        <key char="⚠️" group="alphanumeric" id="g2" label="⚠️"/>
-        <key char="♨️" group="alphanumeric" id="g3" label="♨️"/>
-        <key char="♻️" group="alphanumeric" id="g4" label="♻️"/>
-        <key char="💢" group="alphanumeric" id="g5" label="💢"/>
-        <key char="💠" group="alphanumeric" id="g6" label="💠"/>
-        <key char="♠️" group="alphanumeric" id="g7" label="♠️"/>
-        <key char="♣️" group="alphanumeric" id="g8" label="♣️"/>
-        <key char="♥️" group="alphanumeric" id="g9" label="♥️"/>
-        <key char="♦️" group="alphanumeric" id="g10" label="♦️"/>
-        <key char="☑️" group="alphanumeric" id="g11" label="☑️"/>
-        <key char="⚪️" group="alphanumeric" id="h0" label="⚪️"/>
-        <key char="⚫️" group="alphanumeric" id="h1" label="⚫️"/>
-        <key char="🔘" group="alphanumeric" id="h2" label="🔘"/>
-        <key char="🔴" group="alphanumeric" id="h3" label="🔴"/>
-        <key char="🔵" group="alphanumeric" id="h4" label="🔵"/>
-        <key char="🔺" group="alphanumeric" id="h5" label="🔺"/>
-        <key char="🔻" group="alphanumeric" id="h6" label="🔻"/>
-        <key char="🔸" group="alphanumeric" id="h7" label="🔸"/>
-        <key char="🔹" group="alphanumeric" id="h8" label="🔹"/>
-        <key char="🔶" group="alphanumeric" id="h9" label="🔶"/>
-        <key char="🔷" group="alphanumeric" id="h10" label="🔷"/>
-        <key char="▪️" group="alphanumeric" id="h11" label="▪️"/>
-        <key char="▫️" group="alphanumeric" id="i0" label="▫️"/>
-        <key char="⬛️" group="alphanumeric" id="i1" label="⬛️"/>
-        <key char="⬜️" group="alphanumeric" id="i2" label="⬜️"/>
-        <key char="◼️" group="alphanumeric" id="i3" label="◼️"/>
-        <key char="◻️" group="alphanumeric" id="i4" label="◻️"/>
-        <key char="◾️" group="alphanumeric" id="i5" label="◾️"/>
-        <key char="◽️" group="alphanumeric" id="i6" label="◽️"/>
-        <key char="🔲" group="alphanumeric" id="i7" label="🔲"/>
-        <key char="🔳" group="alphanumeric" id="i8" label="🔳"/>
+        <key group="click" id="move" tooltip="Move keyboard"/>
+      
+        <key group="click" id="layer16.like_rtrn" label="MORE" tooltip="More emojis"/>
+      
+        <key group="click" id="hide" tooltip="Hide keyboard"/>
+        
+      
+        <key group="click" id="quit" tooltip="Quit Keyboard"/>
+        
+      
+        <key group="click" id="settings" tooltip="Settings"/>
+        
+      
+        <key group="bottomrow" id="BKSP"/>
+        
+    
+      
+        <key group="bottomrow" id="layer0.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer1.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer2.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer3.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer4.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer5.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer6.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer7.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer8.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer9.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer10.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer11.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer12.like_rtrn"/>
+    
+      </panel>
+      
+      <panel filename="emoji.svg" layer="places2">
+        <key char="🛄" group="alphanumeric" id="a0" label="🛄"/>
+        <key char="🛅" group="alphanumeric" id="a1" label="🛅"/>
+        <key char="💴" group="alphanumeric" id="a2" label="💴"/>
+        <key char="💶" group="alphanumeric" id="a3" label="💶"/>
+        <key char="💷" group="alphanumeric" id="a4" label="💷"/>
+        <key char="💵" group="alphanumeric" id="a5" label="💵"/>
+        <key char="🗽" group="alphanumeric" id="a6" label="🗽"/>
+        <key char="🗿" group="alphanumeric" id="a7" label="🗿"/>
+        <key char="🌁" group="alphanumeric" id="a8" label="🌁"/>
+        <key char="🗼" group="alphanumeric" id="a9" label="🗼"/>
+        <key char="⛲️" group="alphanumeric" id="a10" label="⛲️"/>
+        <key char="🏰" group="alphanumeric" id="a11" label="🏰"/>
+        <key char="🏯" group="alphanumeric" id="b0" label="🏯"/>
+        <key char="🌇" group="alphanumeric" id="b1" label="🌇"/>
+        <key char="🌆" group="alphanumeric" id="b2" label="🌆"/>
+        <key char="🌃" group="alphanumeric" id="b3" label="🌃"/>
+        <key char="🌉" group="alphanumeric" id="b4" label="🌉"/>
+        <key char="🏠" group="alphanumeric" id="b5" label="🏠"/>
+        <key char="🏡" group="alphanumeric" id="b6" label="🏡"/>
+        <key char="🏢" group="alphanumeric" id="b7" label="🏢"/>
+        <key char="🏬" group="alphanumeric" id="b8" label="🏬"/>
+        <key char="🏭" group="alphanumeric" id="b9" label="🏭"/>
+        <key char="🏣" group="alphanumeric" id="b10" label="🏣"/>
+        <key char="🏤" group="alphanumeric" id="b11" label="🏤"/>
+        <key char="🏥" group="alphanumeric" id="c0" label="🏥"/>
+        <key char="🏦" group="alphanumeric" id="c1" label="🏦"/>
+        <key char="🏨" group="alphanumeric" id="c2" label="🏨"/>
+        <key char="🏩" group="alphanumeric" id="c3" label="🏩"/>
+        <key char="💒" group="alphanumeric" id="c4" label="💒"/>
+        <key char="⛪️" group="alphanumeric" id="c5" label="⛪️"/>
+        <key char="🏪" group="alphanumeric" id="c6" label="🏪"/>
+        <key char="🏫" group="alphanumeric" id="c7" label="🏫"/>
+
+
+        
+        <key group="click" id="move" tooltip="Move keyboard"/>
+        
+      
+        <key group="click" id="hide" tooltip="Hide keyboard"/>
+        
+        <key group="click" id="layer8.like_rtrn" label="MORE" tooltip="More emojis"/>
+        
+      
+        <key group="click" id="quit" tooltip="Quit Keyboard"/>
+        
+      
+        <key group="click" id="settings" tooltip="Settings"/>
+        
+      
+        <key group="bottomrow" id="BKSP"/>
+        
+    
+      
+        <key group="bottomrow" id="layer0.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer1.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer2.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer3.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer4.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer5.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer6.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer7.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer8.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer9.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer10.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer11.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer12.like_rtrn"/>
+        
+    
+      </panel>
+      
+      
+      <panel filename="emoji.svg" layer="symbols1-2">
+        <key char="📩" group="alphanumeric" id="a0" label="📩"/>
+        <key char="📨" group="alphanumeric" id="a1" label="📨"/>
+        <key char="📧" group="alphanumeric" id="a2" label="📧"/>
+        <key char="📥" group="alphanumeric" id="a3" label="📥"/>
+        <key char="📤" group="alphanumeric" id="a4" label="📤"/>
+        <key char="📦" group="alphanumeric" id="a5" label="📦"/>
+        <key char="📯" group="alphanumeric" id="a6" label="📯"/>
+        <key char="📮" group="alphanumeric" id="a7" label="📮"/>
+        <key char="📪" group="alphanumeric" id="a8" label="📪"/>
+        <key char="📫" group="alphanumeric" id="a9" label="📫"/>
+        <key char="📬" group="alphanumeric" id="a10" label="📬"/>
+        <key char="📭" group="alphanumeric" id="a11" label="📭"/>
+        <key char="📄" group="alphanumeric" id="b0" label="📄"/>
+        <key char="📃" group="alphanumeric" id="b1" label="📃"/>
+        <key char="📑" group="alphanumeric" id="b2" label="📑"/>
+        <key char="📈" group="alphanumeric" id="b3" label="📈"/>
+        <key char="📉" group="alphanumeric" id="b4" label="📉"/>
+        <key char="📊" group="alphanumeric" id="b5" label="📊"/>
+        <key char="📅" group="alphanumeric" id="b6" label="📅"/>
+        <key char="📆" group="alphanumeric" id="b7" label="📆"/>
+        <key char="🔅" group="alphanumeric" id="b8" label="🔅"/>
+        <key char="🔆" group="alphanumeric" id="b9" label="🔆"/>
+        <key char="📜" group="alphanumeric" id="b10" label="📜"/>
+        <key char="📋" group="alphanumeric" id="b11" label="📋"/>
+        <key char="📖" group="alphanumeric" id="c0" label="📖"/>
+        <key char="📓" group="alphanumeric" id="c1" label="📓"/>
+        <key char="📔" group="alphanumeric" id="c2" label="📔"/>
+        <key char="📒" group="alphanumeric" id="c3" label="📒"/>
+        <key char="📕" group="alphanumeric" id="c4" label="📕"/>
+        <key char="📗" group="alphanumeric" id="c5" label="📗"/>
+        <key char="📘" group="alphanumeric" id="c6" label="📘"/>
+        <key char="📙" group="alphanumeric" id="c7" label="📙"/>
+        <key char="📚" group="alphanumeric" id="c8" label="📚"/>
+        <key char="📇" group="alphanumeric" id="c9" label="📇"/>
+        <key char="🔗" group="alphanumeric" id="c10" label="🔗"/>
+        <key char="📎" group="alphanumeric" id="c11" label="📎"/>
         <key group="click" id="move" tooltip="Move keyboard"/>
         
       
@@ -1706,6 +1771,193 @@
         
     
       </panel>
+      <panel filename="emoji.svg" layer="symbols2-2">
+        <key char="🅿" group="alphanumeric" id="a0" label="🅿"/>
+        <key char="🚾" group="alphanumeric" id="a1" label="🚾"/>
+        <key char="🆒" group="alphanumeric" id="a2" label="🆒"/>
+        <key char="🆓" group="alphanumeric" id="a3" label="🆓"/>
+        <key char="🆕" group="alphanumeric" id="a4" label="🆕"/>
+        <key char="🆖" group="alphanumeric" id="a5" label="🆖"/>
+        <key char="🆗" group="alphanumeric" id="a6" label="🆗"/>
+        <key char="🆙" group="alphanumeric" id="a7" label="🆙"/>
+        <key char="🏧" group="alphanumeric" id="a8" label="🏧"/>
+        <key char="🌀" group="alphanumeric" id="a9" label="🌀"/>
+        <key char="Ⓜ️" group="alphanumeric" id="a10" label="Ⓜ️"/>
+        <key char="⛎" group="alphanumeric" id="a11" label="⛎"/>
+        <key char="♈️" group="alphanumeric" id="b0" label="♈️"/>
+        <key char="♉️" group="alphanumeric" id="b1" label="♉️"/>
+        <key char="♊️" group="alphanumeric" id="b2" label="♊️"/>
+        <key char="♋️" group="alphanumeric" id="b3" label="♋️"/>
+        <key char="♌️" group="alphanumeric" id="b4" label="♌️"/>
+        <key char="♍️" group="alphanumeric" id="b5" label="♍️"/>
+        <key char="♎️" group="alphanumeric" id="b6" label="♎️"/>
+        <key char="♏️" group="alphanumeric" id="b7" label="♏️"/>
+        <key char="♐️" group="alphanumeric" id="b8" label="♐️"/>
+        <key char="♑️" group="alphanumeric" id="b9" label="♑️"/>
+        <key char="♒️" group="alphanumeric" id="b10" label="♒️"/>
+        <key char="♓️" group="alphanumeric" id="b11" label="♓️"/>
+        <key char="🚻" group="alphanumeric" id="c0" label="🚻"/>
+        <key char="🚹" group="alphanumeric" id="c1" label="🚹"/>
+        <key char="🚺" group="alphanumeric" id="c2" label="🚺"/>
+        <key char="🚼" group="alphanumeric" id="c3" label="🚼"/>
+        <key char="♿️" group="alphanumeric" id="c4" label="♿️"/>
+        <key char="🚰" group="alphanumeric" id="c5" label="🚰"/>
+        <key char="🚭" group="alphanumeric" id="c6" label="🚭"/>
+        <key char="🚮" group="alphanumeric" id="c7" label="🚮"/>
+        <key char="▶️" group="alphanumeric" id="c8" label="▶️"/>
+        <key char="◀️" group="alphanumeric" id="c9" label="◀️"/>
+        <key char="🔼" group="alphanumeric" id="c10" label="🔼"/>
+        <key char="🔽" group="alphanumeric" id="c11" label="🔽"/>
+        <key group="click" id="move" tooltip="Move keyboard"/>
+        
+      
+        <key group="click" id="hide" tooltip="Hide keyboard"/>
+        
+      
+        <key group="click" id="quit" tooltip="Quit Keyboard"/>
+        
+      
+        <key group="click" id="settings" tooltip="Settings"/>
+        
+      
+        <key group="bottomrow" id="BKSP"/>
+        
+    
+      
+        <key group="bottomrow" id="layer0.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer1.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer2.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer3.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer4.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer5.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer6.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer7.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer8.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer9.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer10.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer11.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer12.like_rtrn"/>
+        
+    
+      </panel>
+      <panel filename="emoji.svg" layer="symbols3-2">
+        <key char="🔝" group="alphanumeric" id="a0" label="🔝"/>
+        <key char="🔜" group="alphanumeric" id="a1" label="🔜"/>
+        <key char="🔯" group="alphanumeric" id="a2" label="🔯"/>
+        <key char="🔰" group="alphanumeric" id="a3" label="🔰"/>
+        <key char="🔱" group="alphanumeric" id="a4" label="🔱"/>
+        <key char="⚠️" group="alphanumeric" id="a5" label="⚠️"/>
+        <key char="♨️" group="alphanumeric" id="a6" label="♨️"/>
+        <key char="♻️" group="alphanumeric" id="a7" label="♻️"/>
+        <key char="💢" group="alphanumeric" id="a8" label="💢"/>
+        <key char="💠" group="alphanumeric" id="a9" label="💠"/>
+        <key char="♠️" group="alphanumeric" id="a10" label="♠️"/>
+        <key char="♣️" group="alphanumeric" id="a11" label="♣️"/>
+        <key char="♥️" group="alphanumeric" id="b0" label="♥️"/>
+        <key char="♦️" group="alphanumeric" id="b1" label="♦️"/>
+        <key char="☑️" group="alphanumeric" id="b2" label="☑️"/>
+        <key char="⚪️" group="alphanumeric" id="b3" label="⚪️"/>
+        <key char="⚫️" group="alphanumeric" id="b4" label="⚫️"/>
+        <key char="🔘" group="alphanumeric" id="b5" label="🔘"/>
+        <key char="🔴" group="alphanumeric" id="b6" label="🔴"/>
+        <key char="🔵" group="alphanumeric" id="b7" label="🔵"/>
+        <key char="🔺" group="alphanumeric" id="b8" label="🔺"/>
+        <key char="🔻" group="alphanumeric" id="b9" label="🔻"/>
+        <key char="🔸" group="alphanumeric" id="b10" label="🔸"/>
+        <key char="🔹" group="alphanumeric" id="b11" label="🔹"/>
+        <key char="🔶" group="alphanumeric" id="c0" label="🔶"/>
+        <key char="🔷" group="alphanumeric" id="c1" label="🔷"/>
+        <key char="▪️" group="alphanumeric" id="c2" label="▪️"/>
+        <key char="▫️" group="alphanumeric" id="c3" label="▫️"/>
+        <key char="⬛️" group="alphanumeric" id="c4" label="⬛️"/>
+        <key char="⬜️" group="alphanumeric" id="c5" label="⬜️"/>
+        <key char="◼️" group="alphanumeric" id="c6" label="◼️"/>
+        <key char="◻️" group="alphanumeric" id="c7" label="◻️"/>
+        <key char="◾️" group="alphanumeric" id="c8" label="◾️"/>
+        <key char="◽️" group="alphanumeric" id="c9" label="◽️"/>
+        <key char="🔲" group="alphanumeric" id="c10" label="🔲"/>
+        <key char="🔳" group="alphanumeric" id="c11" label="🔳"/>
+        <key group="click" id="move" tooltip="Move keyboard"/>
+        
+      
+        <key group="click" id="hide" tooltip="Hide keyboard"/>
+        
+      
+        <key group="click" id="quit" tooltip="Quit Keyboard"/>
+        
+      
+        <key group="click" id="settings" tooltip="Settings"/>
+        
+      
+        <key group="bottomrow" id="BKSP"/>
+        
+    
+      
+        <key group="bottomrow" id="layer0.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer1.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer2.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer3.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer4.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer5.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer6.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer7.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer8.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer9.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer10.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer11.like_rtrn"/>
+        
+      
+        <key group="bottomrow" id="layer12.like_rtrn"/>
+    
+      </panel>
+      
+      
     </panel>
   </box>
   
