@@ -2,7 +2,7 @@
 
 Tested on **Ubuntu 15.04 x64** but should work for any OS with **OnBoard** onscreen keyboard.
 
-![screenshot](http://i.imgur.com/m880YhS.png)
+![screenshot](https://raw.githubusercontent.com/nlburgin/onboard-emoji/350ab5c349dd1bce6325cb86156cfaafa8230378/screenshot.png)
 
 ## How to use
 
