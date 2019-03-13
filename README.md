@@ -11,17 +11,3 @@ To display emoji you need a font which contain emoji symbols. If you don't have 
     sudo apt-get install fonts-noto-color-emoji
    
 Now copy all `layout` folder content to `~/.local/share/onboard/layouts` folder.
-
-Then Go to `System Settings -> Accessibility` and in `Input` tab enable onscreen keyboard.
-
-In layout select «emoji» in user's layouts.
-
-I prefer open emoji keyboard by hotkey, so i disable auto show keyboard on input and autoclose on hardware keyboard press. It can be done on general OnBoard settings. And in `System Settings -> Keyboard` you can set keyboard shortcut which run `onboard` command. Play around with OnBoard settings to achieve most useful configuration.
-
-## How to customize
-
-Layout `.svg` template contain grid for 12x9 symbol buttons and for 16 panel switchers which allow display up to 12x9x16=1728 emoji. `.json` file contain obvious configuration for panels. `.onboard.template` contain common `.onboard` structure to generate layout. `.py` script generate new `.onboard` file in `layout` folder based on this config and onboard template.
-
-**NOTE:** some emoji contain more than one symbol (including invisible characters) so be careful to operate with it.
-
-How to modify `.svg` template you can read in your `/usr/share/onboard/docs/layouts.html`
